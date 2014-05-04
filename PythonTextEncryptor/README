@@ -1,0 +1,12 @@
+
+Thanks for downloading EnDeDoder.
+EnDeCoder is a python text encryptor/decryptor that can
+cross over any computer via email, text, and talk.
+Before installing, move to your home directory (ex. /home/pi)
+To install run the following commands;
+
+cd ~/Downloads/PythonTextEncryptor/ (or where ever your computer downloaded the file)
+chmod +x runme.sh
+./runme.sh
+
+<END OF README>

@@ -1,0 +1,6 @@
+[Desktop Entry]
+Name=EnDeCoder
+Comment=Simple Text Encryptor/Decryptor
+Icon=~/PythonTextEncryptor/text-x-python-icon.png
+Exec=~/PythonTextEncryptor/edcoder.sh
+Type=Application

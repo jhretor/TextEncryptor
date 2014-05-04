@@ -1,0 +1,1 @@
+lxterminal -e python ~/PythonTextEncryptor/EDcoder.py
